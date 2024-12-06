@@ -1,0 +1,327 @@
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\appsettings.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.exe
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.deps.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.dev.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfo.cs
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.sourcelink.json
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.RazorTargetAssemblyInfo.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\scopedcss\bundle\CajemesfoodProyect.styles.css
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Manifest.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Pack.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.CajemesfoodProyect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.build.CajemesfoodProyect.props
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CajemesfoodProyect.props
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CajemesfoodProyect.props
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\Cajemesf.2E55022D.Up2Date
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\refint\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.genruntimeconfig.cache
+C:\Users\UTS-CDS\source\repos\CajemesfoodProyect\CajemesfoodProyect\obj\Debug\net5.0\ref\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\appsettings.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.exe
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.deps.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.dev.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfo.cs
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.sourcelink.json
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.RazorTargetAssemblyInfo.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\scopedcss\bundle\CajemesfoodProyect.styles.css
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Manifest.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Pack.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.CajemesfoodProyect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.build.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\Cajemesf.2E55022D.Up2Date
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\refint\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.genruntimeconfig.cache
+C:\Users\UTS-CDS\Desktop\Proyectocajemesfood\CAJEMESFOODAWOS\CajemesfoodProyect\obj\Debug\net5.0\ref\CajemesfoodProyect.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.Development.json
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.json
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.exe
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.deps.json
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.json
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.dev.json
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Humanizer.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.AssemblyReference.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfoInputs.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfo.cs
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.CoreCompileInputs.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cs
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.RazorTargetAssemblyInfo.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\scopedcss\bundle\CajemesfoodProyect.styles.css
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Manifest.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Pack.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.CajemesfoodProyect.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.build.CajemesfoodProyect.props
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CajemesfoodProyect.props
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CajemesfoodProyect.props
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\Cajemesf.2E55022D.Up2Date
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\refint\CajemesfoodProyect.dll
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.pdb
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.genruntimeconfig.cache
+D:\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\ref\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.json
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.exe
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.deps.json
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.json
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.dev.json
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfo.cs
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.RazorTargetAssemblyInfo.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\scopedcss\bundle\CajemesfoodProyect.styles.css
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Manifest.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Pack.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.CajemesfoodProyect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.build.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CajemesfoodProyect.props
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\Cajemesf.2E55022D.Up2Date
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\refint\CajemesfoodProyect.dll
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.genruntimeconfig.cache
+C:\Users\UTS-CDS\Downloads\cajemesmain\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\ref\CajemesfoodProyect.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\appsettings.json
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.exe
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.deps.json
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.json
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.runtimeconfig.dev.json
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.AssemblyReference.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfoInputs.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.AssemblyInfo.cs
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\scopedcss\bundle\CajemesfoodProyect.styles.css
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\CajemesfoodProyect.StaticWebAssets.Pack.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.CajemesfoodProyect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.build.CajemesfoodProyect.props
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CajemesfoodProyect.props
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CajemesfoodProyect.props
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\Cajemesf.2E55022D.Up2Date
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\refint\CajemesfoodProyect.dll
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.pdb
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\CajemesfoodProyect.genruntimeconfig.cache
+C:\Users\Carlos Melendrez\Downloads\CAJEMESFOODAWOS-main\CajemesfoodProyect\obj\Debug\net5.0\ref\CajemesfoodProyect.dll
